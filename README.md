@@ -11,12 +11,19 @@ educative.io:
 1) Coding
 2) System design
 
-Leetcode
+Leetcode -- Main
+Karumanchi
+
+=============================================
+
+
 Geeksforgeeks
 Interviewcake
+hackerrank
 
 https://github.com/yangshun/tech-interview-handbook
 https://github.com/kdn251/interviews
 https://github.com/mission-peace/interview.git
 
-IDeserve
+Design Patterns
+
